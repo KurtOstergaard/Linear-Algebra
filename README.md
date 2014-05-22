@@ -1,4 +1,10 @@
-LAFF
+Linear Algebra
+
+I included these iPython notebooks to show the vector and matrix routines that I worked on in the EdX course Linear Algebra foundations to Frontiers. The course had a strong emphasis on coding these methods. 
+
+Below is something of a syllabus
+
+### LAFF
 ====
 ###Linear Algebra - Foundations to Frontiers  
 Learn the theory of linear algebra hand-in-hand with the practice of software library development.
